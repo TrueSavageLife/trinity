@@ -1,2 +1,0 @@
-*,:after,:before{padding:0;margin:0;overflow:hidden}body{background:#000}#canvas{display:block;width:100%}.trinity{position:absolute;top:50%;left:50%;opacity:0;transform:translate(-50%,-50%) scale(0);animation:scaleUp 200s linear;animation-fill-mode:forwards}.trinity__img{width:100%}@keyframes scaleUp{0%{opacity:0;transform:translate(-50%,-50%) scale(.05)}to{opacity:.5;transform:translate(-50%,-50%) scale(1)}}
-/*# sourceMappingURL=dist/style.e06e70cb.css.map */
